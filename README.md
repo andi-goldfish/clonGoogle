@@ -1,4 +1,4 @@
-# Portafolio de habilidades Technolochicas Pro
+# Clon de Google en Technolochicas Pro
 
 El presente proyecto es un clon de Google desarrollado para poner en práctica las habilidades obtenidad dentro del bootcamp de desarrollo frontend de Techno lochicas PRO.
 
