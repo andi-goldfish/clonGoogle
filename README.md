@@ -2,7 +2,7 @@
 
 El presente proyecto es un clon de Google desarrollado para poner en práctica las habilidades obtenidad dentro del bootcamp de desarrollo frontend de Techno lochicas PRO.
 
-Fue desarrollado con HTML, CSS. y J5 con el uso de el framework de UI, Bootstrap utilizando además bibliotecas externas.
+Fue desarrollado con HTML y CSS.
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
