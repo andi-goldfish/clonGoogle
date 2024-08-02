@@ -4,6 +4,7 @@
     font-style: normal;
 }
 
+
 body {
     margin: 0px;
 }
@@ -62,7 +63,7 @@ main {
 
 #logo {
     padding-top: 18vh;
-    height: 92px;
+    height: 170px;
 }
 #lupa{
     width: 23px;
